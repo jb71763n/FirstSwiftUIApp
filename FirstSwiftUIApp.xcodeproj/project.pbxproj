@@ -47,6 +47,7 @@
 		1FDFEDAF2B018C2B00BFD347 /* .gitignore.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = .gitignore.md; sourceTree = "<group>"; };
 		1FDFEDB02B018CA500BFD347 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 		1FDFEDB12B018CDF00BFD347 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		1FF5D8BC2B019D1700303677 /* test2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = test2.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		1FDFED782B017ECE00BFD347 = {
 			isa = PBXGroup;
 			children = (
+				1FF5D8BC2B019D1700303677 /* test2.md */,
 				1FDFEDB12B018CDF00BFD347 /* README.md */,
 				1FDFEDB02B018CA500BFD347 /* LICENSE.md */,
 				1FDFEDAF2B018C2B00BFD347 /* .gitignore.md */,
