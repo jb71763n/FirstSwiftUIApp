@@ -44,6 +44,7 @@
 		1FDFED9B2B017ED400BFD347 /* FirstSwiftUIAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstSwiftUIAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FDFED9F2B017ED500BFD347 /* FirstSwiftUIAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstSwiftUIAppUITests.swift; sourceTree = "<group>"; };
 		1FDFEDA12B017ED500BFD347 /* FirstSwiftUIAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstSwiftUIAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1FDFEDAE2B018AF600BFD347 /* test1.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = test1.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		1FDFED782B017ECE00BFD347 = {
 			isa = PBXGroup;
 			children = (
+				1FDFEDAE2B018AF600BFD347 /* test1.md */,
 				1FDFED832B017ECE00BFD347 /* FirstSwiftUIApp */,
 				1FDFED942B017ED400BFD347 /* FirstSwiftUIAppTests */,
 				1FDFED9E2B017ED400BFD347 /* FirstSwiftUIAppUITests */,
